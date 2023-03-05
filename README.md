@@ -2,7 +2,7 @@
 
 StatNet: 统计理论指导下的神经网络
 
-report [here]('./StatNet-统计理论指导下的神经网络.pdf')
+report [here]('https://github.com/keyork/stat-net/blob/main/StatNet-%E7%BB%9F%E8%AE%A1%E7%90%86%E8%AE%BA%E6%8C%87%E5%AF%BC%E4%B8%8B%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.pdf')
 
 （已写好报告，后续再完善这个文档）
 
